@@ -1,4 +1,3 @@
-build_environment: ubuntu1304
 language: java
 jdk: oraclejdk7
 
